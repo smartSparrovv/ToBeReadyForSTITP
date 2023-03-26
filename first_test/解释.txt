@@ -1,0 +1,4 @@
+plt.imshow(img, cmap, **arg)  # 用于接受和处理图像 但无法显示图像
+# img: 需要绘制的图像或数组
+# cmap：颜色图谱，常见有bone（黑-白，x线）、gray（黑-白）
+# **arg：其他参数
